@@ -36,7 +36,7 @@ wp-config.php
 /.htaccess
 
 # macOS files
-.DS_Store
+/.DS_Store
 **/.DS_Store
 
 # All plugins
